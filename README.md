@@ -1,6 +1,6 @@
 # Garrett Roell
 
-I am a Chemical Engineering PhD student at Washington University in St. Louis. My thesis is focused on metabolic regulation for efficient biofuel production from non-food crops. The goal is to connect genes and gene expression with fermentation outcomes. When relaxing, I enjoy playing and watching sports including football, volleyball and pickleball.
+I'm an assistant professor at the University of Hawaiʻi at Mānoa. My work is focused on metabolic regulation for efficient biofuel production from non-food crops. The goal is to connect genes and gene expression with fermentation outcomes. When relaxing, I enjoy playing and watching sports including football and pickleball.
 
 <!--
 **garrettroell/garrettroell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
